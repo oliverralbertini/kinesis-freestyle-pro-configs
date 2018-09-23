@@ -1,0 +1,8 @@
+{hk1}>{s5}{x1}{-lwin}{d}{+lwin}
+{hk2}>{s5}{x1}{-lalt}{tab}{+lalt}
+{hk3}>{s5}{x1}{-lctrl}{a}{+lctrl}
+{hk4}>{s5}{x1}{-lctrl}{z}{+lctrl}
+{hk5}>{s5}{x1}{-lctrl}{x}{+lctrl}
+{hk6}>{s1}{del}
+{hk7}>{s5}{x1}{-lctrl}{c}{+lctrl}
+{hk8}>{s5}{x1}{-lctrl}{v}{+lctrl}

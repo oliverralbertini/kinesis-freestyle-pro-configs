@@ -1,0 +1,42 @@
+{prnt}>{s5}{x1}{-lshft}{-rwin}{4}{+lshft}{+rwin}
+{hk1}>{s5}{x1}{F11}
+{hk2}>{s5}{x1}{-lwin}{tab}{+lwin}
+{hk3}>{s5}{x1}{-lwin}{a}{+lwin}
+{hk4}>{s5}{x1}{-lwin}{z}{+lwin}
+{hk5}>{s5}{x1}{-lwin}{x}{+lwin}
+{hk6}>{s1}{del}
+[caps]>[lctrl]
+{hk7}>{s5}{x1}{-lwin}{c}{+lwin}
+{hk8}>{s5}{x1}{-lwin}{v}{+lwin}
+[hk9]>[fnshf]
+{hk10}>{s5}{x1}{rmous}
+[lwin]>[lalt]
+[lalt]>[lwin]
+[ralt]>[rwin]
+[rctrl]>[ralt]
+fn {prnt}>{s5}{x1}{-lshft}{-lctrl}{-rwin}{4}{+lshft}{+lctrl}{+rwin}
+fn [scrlk]>[numlk]
+fn [7]>[kp7]
+fn [8]>[kp8]
+fn [9]>[kp9]
+fn [0]>[kp0]
+fn [hyph]>[kp*]
+fn [bspc]>[del]
+fn [u]>[kp4]
+fn [i]>[kp5]
+fn [o]>[kp6]
+fn [p]>[kp-]
+fn [j]>[kp1]
+fn [k]>[kp2]
+fn [l]>[kp3]
+fn [colon]>[kp+]
+fn [m]>[kp0]
+fn [per]>[kp.]
+fn [/]>[kp/]
+fn [hk9]>[fnshf]
+fn [lctrl]>[caps]
+fn [lwin]>[lalt]
+fn [lalt]>[lwin]
+fn [rspc]>[kpent]
+fn [ralt]>[rwin]
+fn [rctrl]>[ralt]

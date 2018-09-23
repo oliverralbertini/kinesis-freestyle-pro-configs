@@ -1,0 +1,19 @@
+[lwin]>[lalt]
+fn [lwin]>[lalt]
+[lalt]>[lwin]
+fn [lalt]>[lwin]
+[ralt]>[rwin]
+fn [ralt]>[rwin]
+[rctrl]>[ralt]
+fn [rctrl]>[ralt]
+{hk1}>{x1}{s5}{f11}
+{hk2}>{x1}{s5}{-lwin}{tab}{+lwin}
+{hk3}>{x1}{s5}{-lwin}{a}{+lwin}
+{hk4}>{x1}{s5}{-lwin}{z}{+lwin}
+{hk5}>{x1}{s5}{-lwin}{x}{+lwin}
+{hk6}>{s1}{del}
+{hk7}>{x1}{s5}{-lwin}{c}{+lwin}
+{hk8}>{x1}{s5}{-lwin}{v}{+lwin}
+{hk10}>{x1}{s5}{rmous}
+
+{prnt}>{x1}{s5}{-lshft}{-rwin}{3}{+lshft}{+rwin}
