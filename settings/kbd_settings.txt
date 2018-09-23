@@ -1,0 +1,7 @@
+startup_file=layout1.txt
+macro_speed=5
+game_mode=OFF
+status_play_speed=3
+program_key_lock=OFF
+v_drive=manual
+led_mode=5
