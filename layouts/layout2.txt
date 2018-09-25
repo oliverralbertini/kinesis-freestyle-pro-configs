@@ -1,3 +1,4 @@
+[caps]>[lctrl]
 {hk1}>{s5}{x1}{-lwin}{d}{+lwin}
 {hk2}>{s5}{x1}{-lalt}{tab}{+lalt}
 {hk3}>{s5}{x1}{-lctrl}{a}{+lctrl}
@@ -5,7 +6,7 @@
 {hk5}>{s5}{x1}{-lctrl}{x}{+lctrl}
 {hk6}>{s1}{del}
 {hk7}>{s5}{x1}{-lctrl}{c}{+lctrl}
-{hk8}>{s5}{x1}{-lshift}{ins}{+lshift}
+{hk8}>{s5}{x1}{-lshft}{ins}{+lshft}
 [hk9]>[fnshf]
 fn [scrlk]>[numlk]
 fn [7]>[kp7]
@@ -27,8 +28,4 @@ fn [per]>[kp.]
 fn [/]>[kp/]
 fn [hk9]>[fnshf]
 fn [lctrl]>[caps]
-fn [lwin]>[lalt]
-fn [lalt]>[lwin]
 fn [rspc]>[kpent]
-fn [ralt]>[rwin]
-fn [rctrl]>[ralt]
