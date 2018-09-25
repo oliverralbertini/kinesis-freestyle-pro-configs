@@ -1,19 +1,34 @@
-[lwin]>[lalt]
-fn [lwin]>[lalt]
-[lalt]>[lwin]
-fn [lalt]>[lwin]
-[ralt]>[rwin]
-fn [ralt]>[rwin]
-[rctrl]>[ralt]
-fn [rctrl]>[ralt]
-{hk1}>{x1}{s5}{f11}
-{hk2}>{x1}{s5}{-lwin}{tab}{+lwin}
-{hk3}>{x1}{s5}{-lwin}{a}{+lwin}
-{hk4}>{x1}{s5}{-lwin}{z}{+lwin}
-{hk5}>{x1}{s5}{-lwin}{x}{+lwin}
+{hk1}>{s5}{x1}{-lwin}{d}{+lwin}
+{hk2}>{s5}{x1}{-lalt}{tab}{+lalt}
+{hk3}>{s5}{x1}{-lctrl}{a}{+lctrl}
+{hk4}>{s5}{x1}{-lctrl}{z}{+lctrl}
+{hk5}>{s5}{x1}{-lctrl}{x}{+lctrl}
 {hk6}>{s1}{del}
-{hk7}>{x1}{s5}{-lwin}{c}{+lwin}
-{hk8}>{x1}{s5}{-lwin}{v}{+lwin}
-{hk10}>{x1}{s5}{rmous}
-
-{prnt}>{x1}{s5}{-lshft}{-rwin}{3}{+lshft}{+rwin}
+{hk7}>{s5}{x1}{-lctrl}{c}{+lctrl}
+{hk8}>{s5}{x1}{-lshift}{ins}{+lshift}
+[hk9]>[fnshf]
+fn [scrlk]>[numlk]
+fn [7]>[kp7]
+fn [8]>[kp8]
+fn [9]>[kp9]
+fn [0]>[kp0]
+fn [hyph]>[kp*]
+fn [bspc]>[del]
+fn [u]>[kp4]
+fn [i]>[kp5]
+fn [o]>[kp6]
+fn [p]>[kp-]
+fn [j]>[kp1]
+fn [k]>[kp2]
+fn [l]>[kp3]
+fn [colon]>[kp+]
+fn [m]>[kp0]
+fn [per]>[kp.]
+fn [/]>[kp/]
+fn [hk9]>[fnshf]
+fn [lctrl]>[caps]
+fn [lwin]>[lalt]
+fn [lalt]>[lwin]
+fn [rspc]>[kpent]
+fn [ralt]>[rwin]
+fn [rctrl]>[ralt]
