@@ -59,3 +59,7 @@ Miscellaneous
 | Caps Lock | Fn Toggle | Fn Shift | Menu/App | International | Calculator | Shutdown | LED Toggle | 125 MS Delay | 500 MS Delay | No Key Action |
 |:---------:|:---------:|:--------:|:--------:|:-------------:|:----------:|:--------:|:----------:|:------------:|:------------:|:-------------:|
 |   CAPS    | FNTOG     | FNSHF    | MENU     | INTL/         | CALC       | SHTDN    | LED        | D125         | D500         | NULL          |
+
+Tips:
+1. During configuration, connect the keyboard with native USB port instead of via a hub. That could prevent the unable to mount issue.
+2. To format the v-drive: press [SmartSet+shift+ctrl+f]. Give it a moment.
